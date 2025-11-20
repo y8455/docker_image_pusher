@@ -1,4 +1,4 @@
 apline
-pythone:apline3.19
+python:apline3.19
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
