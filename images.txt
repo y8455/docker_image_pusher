@@ -1,2 +1,2 @@
 alpine
-python:alpine:3.19
+python:alpine3.19
